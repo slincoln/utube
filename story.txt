@@ -1,2 +1,3 @@
 this was frustrating... working now, sort of?
-Adding a secod line in the first branch
+Adding a second line in the first branch
+Fixing spelling above in second branch
